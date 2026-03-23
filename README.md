@@ -1,3 +1,3 @@
 # Mini Divulgador: ECA Digital
 
-Site educativo público publicado via GitHub Pages.
+Site educativo público publicado via .
