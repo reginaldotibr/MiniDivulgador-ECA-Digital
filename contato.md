@@ -27,7 +27,7 @@ você pode entrar em contato pelos canais abaixo.
 
 ## Canais de contato
 
-- 📧 **E-mail:** exemplo@email.com  
+- 📧 **E-mail:** contato@organizex.com.br  
 - 💼 **GitHub:** utilize a aba *Issues* deste repositório
 
 > ⚠️ Importante: este canal **não realiza atendimentos, denúncias ou suporte jurídico**.
