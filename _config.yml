@@ -1,0 +1,6 @@
+
+title: Mini Divulgador – ECA Digital
+description: Educação e cidadania digital sobre direitos de crianças e adolescentes
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
