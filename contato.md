@@ -1,7 +1,11 @@
 
 ← Voltar ao início
 
-# Contato
+## 📬 Contato
+
+Para informações, sugestões ou contribuições, consulte a página de contato do projeto:
+
+👉 Acesse a página de contato
 
 Este material é de caráter educativo e institucional.
 

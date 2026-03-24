@@ -17,6 +17,19 @@ Este repositório reúne conteúdos informativos e de conscientização social v
 
 ---
 
+## 📂 Navegação
+
+- 📄 Sobre o projeto
+- 📄 Contato
+- 📄 Contexto e objetivos
+- 📄 Curadoria de fontes
+- 📄 Engenharia de prompts
+- 📄 Miniguia de estudo
+
+
+
+
+
 ## 📌 Sobre o projeto
 
 O **Mini Divulgador: ECA Digital** é uma iniciativa de caráter **educativo, informativo e de acesso público**, destinada a explicar e contextualizar como os direitos assegurados pelo ECA se aplicam às dinâmicas do ambiente digital.
