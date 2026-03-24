@@ -1,24 +1,8 @@
 
-← Voltar ao início
+[← Início](README.md)
+---
 
 ## 📬 Contato
-
-Para informações, sugestões ou contribuições, consulte a página de contato do projeto:
-
-👉 Acesse a página de contato
-
-Este material é de caráter educativo e institucional.
-
-Para contribuições, sugestões ou correções, utilize os recursos do próprio GitHub:
-- Issues
-- Pull Requests
-``
-
----
-
----
-
-# Contato
 
 Este projeto tem caráter **educativo e não institucional oficial**.
 
