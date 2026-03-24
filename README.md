@@ -27,6 +27,16 @@ Este repositório reúne conteúdos informativos e de conscientização social v
 - 📄 Miniguia de estudo
 
 
+## 📂 Navegação
+
+- 📄 [Sobre o projeto](sobre.md)
+- 📄 [Contato](contato.md)
+- 📄 [Contexto e objetivos](docs/01-contexto-objetivos.md)
+- 📄 [Curadoria de fontes](docs/02-curadoria-fontes.md)
+- 📄 [Engenharia de prompts](docs/03-engenharia-prompts.md)
+- 📄 [Miniguia de estudo](docs/04-miniguia-estudo.md)
+
+
 
 
 
