@@ -1,34 +1,41 @@
 # 📘 Mini Divulgador: ECA Digital
 
-> Projeto educativo público sobre a aplicação do Estatuto da Criança e do Adolescente no ambiente digital
+Projeto educativo público sobre a aplicação do **Estatuto da Criança e do Adolescente (ECA – Lei nº 8.069/1990)** no **ambiente digital**.
 
-[![Licença MIT](https://img.shields.io/badge/Licença-MIT-blue)](#)
-[![Status](https://img.shields.io/badge/status-educacional-blueviolet)](#)
+Este repositório reúne conteúdos informativos e de conscientização social voltados à **proteção dos direitos de crianças e adolescentes**, à **cidadania digital** e ao **uso responsável das tecnologias**.
+
+---
+
+## 📂 Navegação
+
+- sobre.md  
+- contato.md  
+- docs/01-contexto-objetivos.md  
+- docs/02-curadoria-fontes.md  
+- docs/03-engenharia-prompts.md  
+- docs/04-miniguia-estudo.md  
 
 ---
 
 ## 📌 Sobre o projeto
 
-O **Mini Divulgador: ECA Digital** é um projeto de acesso público com finalidade **educativa, informativa e de conscientização social**, que aborda como os direitos previstos no **Estatuto da Criança e do Adolescente (ECA – Lei nº 8.069/1990)** se aplicam ao **ambiente digital**.
+O **Mini Divulgador: ECA Digital** é uma iniciativa de caráter **educativo, informativo e de acesso público**, destinada a explicar e contextualizar como os direitos assegurados pelo ECA se aplicam às dinâmicas do ambiente digital.
 
-O projeto trata temas como:
-- uso seguro da internet por crianças e adolescentes;
-- proteção de dados pessoais;
-- riscos digitais e exposição indevida;
-- responsabilidades da família, da sociedade, do Estado e das plataformas digitais;
-- cidadania e educação digital.
+O material aborda, entre outros temas:
 
-Este repositório funciona como **material de estudo estruturado** e base para ações educativas, acadêmicas e de conscientização social.
+- uso seguro e consciente da internet por crianças e adolescentes;
+- proteção de dados pessoais e da privacidade;
+- riscos digitais, exposição indevida e prevenção de violações;
+- responsabilidades legais da família, da sociedade, do Estado e das plataformas digitais;
+- educação para a cidadania digital.
+
+O conteúdo pode ser utilizado como **material de estudo**, **apoio pedagógico** ou **referência introdutória** em contextos educacionais, acadêmicos e sociais.
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Objetivo
 
-- ✅ Divulgar o conceito de **ECA Digital** de forma acessível  
-- ✅ Promover **conscientização e cidadania digital**  
-- ✅ Apoiar educadores, estudantes e famílias  
-- ✅ Reunir fontes institucionais confiáveis  
-- ✅ Disponibilizar um **miniguia de estudo** reutilizável  
+Promover **conscientização**, **educação digital** e **proteção dos direitos fundamentais** de crianças e adolescentes no contexto das tecnologias digitais, incentivando o uso responsável da internet e o respeito à legislação vigente.
 
 ---
 
@@ -42,17 +49,25 @@ Este repositório funciona como **material de estudo estruturado** e base para a
 
 ---
 
-## 📂 Estrutura do projeto
+## 📚 Organização do conteúdo
 
-```text
-/
-├─ index.md          # Página inicial do conteúdo
-├─ sobre.md          # Sobre o projeto
-├─ contato.md        # Informações de contato
-├─ _config.yml       # Arquivo de configuração do projeto
-├─ README.md         # Este arquivo
-└─ docs/
-   ├─ 01-contexto-objetivos.md
-   ├─ 02-curadoria-fontes.md
-   ├─ 03-engenharia-prompts.md
-   └─ 04-miniguia-estudo.md
+Os materiais estão organizados de forma progressiva e temática, contemplando:
+
+- contextualização do ECA no ambiente digital;
+- curadoria de fontes institucionais confiáveis;
+- reflexões sobre tecnologia, educação e direitos;
+- um miniguia de estudo para apoio didático e formativo.
+
+---
+
+## ⚠️ Aviso importante
+
+Este repositório tem **finalidade exclusivamente educativa e informativa**.  
+O conteúdo aqui disponibilizado **não substitui orientação profissional**, aconselhamento jurídico, psicológico ou a atuação de órgãos oficiais e autoridades competentes.
+
+---
+
+## 📄 Licença
+
+Este projeto é distribuído sob a **Licença MIT**, permitindo reutilização, adaptação e compartilhamento para fins educativos, acadêmicos e sociais, desde que mantidos os créditos e termos da licença.
+``
