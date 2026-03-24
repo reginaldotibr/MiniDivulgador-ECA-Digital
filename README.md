@@ -15,9 +15,7 @@ Este repositório reúne conteúdos informativos e de conscientização social v
 - 📄 [Engenharia de prompts](docs/03-engenharia-prompts.md)
 - 📄 [Miniguia de estudo](docs/04-miniguia-estudo.md)
 
-
-
-
+---
 
 ## 📌 Sobre o projeto
 
@@ -62,6 +60,46 @@ Os materiais estão organizados de forma progressiva e temática, contemplando:
 
 ---
 
+## 📚 Fontes de referência e pesquisa
+
+O conteúdo deste repositório foi elaborado com base em **fontes institucionais e oficiais**, reconhecidas nas áreas de **direitos da criança e do adolescente**, **legislação brasileira**, **educação** e **cidadania digital**.
+
+Para informações **atualizadas**, aprofundamento dos temas e consulta a materiais oficiais, recomenda‑se priorizar as seguintes categorias de fontes:
+
+### 🏛️ Órgãos e instituições oficiais
+
+- Portal da Legislação Federal (Planalto)  
+- Conselho Nacional dos Direitos da Criança e do Adolescente (CONANDA)  
+- Ministério dos Direitos Humanos e da Cidadania  
+- Ministério da Justiça e Segurança Pública  
+- SaferNet Brasil  
+
+### 🎓 Instituições educacionais e organismos de referência
+
+- UNICEF Brasil  
+- CGI.br / NIC.br  
+- Fundações, universidades e organizações da sociedade civil com atuação reconhecida na área da infância, adolescência e educação digital  
+
+### 🎥 Conteúdos educativos e canais institucionais
+
+Para materiais audiovisuais, debates e campanhas educativas, recomenda‑se a consulta a **canais institucionais oficiais**, como:
+
+- canais verificados de órgãos públicos;
+- universidades e fundações educacionais;
+- organismos internacionais e instituições de referência.
+
+📌 Ao consumir conteúdos externos, é importante observar:
+- a natureza institucional ou oficial da fonte;
+- a data de publicação;
+- a finalidade educativa ou informativa do material.
+
+### 📌 Observação sobre atualização das informações
+
+A legislação e as discussões sobre o ambiente digital estão em constante evolução.  
+Por isso, recomenda‑se que educadores, estudantes e demais interessados **consultem regularmente as fontes oficiais** para obter informações atualizadas e orientações adequadas a cada contexto.
+
+---
+
 ## ⚠️ Aviso importante
 
 Este repositório tem **finalidade exclusivamente educativa e informativa**.  
@@ -72,4 +110,3 @@ O conteúdo aqui disponibilizado **não substitui orientação profissional**, a
 ## 📄 Licença
 
 Este projeto é distribuído sob a **Licença MIT**, permitindo reutilização, adaptação e compartilhamento para fins educativos, acadêmicos e sociais, desde que mantidos os créditos e termos da licença.
-``
