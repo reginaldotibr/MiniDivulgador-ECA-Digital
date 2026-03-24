@@ -1,7 +1,6 @@
 [← Início](README.md)
-
+---
 # Sobre o projeto
-
 
 Conteúdo institucional sobre o Mini Divulgador: ECA Digital.
 ``
