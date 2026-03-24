@@ -2,7 +2,6 @@
 
 > Projeto educativo público sobre a aplicação do Estatuto da Criança e do Adolescente no ambiente digital
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-ativo-brightgreen)](#)
 [![Licença MIT](https://img.shields.io/badge/Licença-MIT-blue)](#)
 [![Status](https://img.shields.io/badge/status-educacional-blueviolet)](#)
 
@@ -19,7 +18,7 @@ O projeto trata temas como:
 - responsabilidades da família, da sociedade, do Estado e das plataformas digitais;
 - cidadania e educação digital.
 
-Este repositório também funciona como **material de estudo estruturado** e **site educativo público via GitHub Pages**.
+Este repositório funciona como **material de estudo estruturado** e base para ações educativas, acadêmicas e de conscientização social.
 
 ---
 
@@ -47,10 +46,10 @@ Este repositório também funciona como **material de estudo estruturado** e **s
 
 ```text
 /
-├─ index.md          # Página inicial do site
+├─ index.md          # Página inicial do conteúdo
 ├─ sobre.md          # Sobre o projeto
-├─ contato.md        # Página de contato
-├─ _config.yml       # Configuração do GitHub Pages
+├─ contato.md        # Informações de contato
+├─ _config.yml       # Arquivo de configuração do projeto
 ├─ README.md         # Este arquivo
 └─ docs/
    ├─ 01-contexto-objetivos.md
