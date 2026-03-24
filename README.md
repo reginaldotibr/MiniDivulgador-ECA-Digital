@@ -8,27 +8,6 @@ Este repositório reúne conteúdos informativos e de conscientização social v
 
 ## 📂 Navegação
 
-- sobre.md  
-- contato.md  
-- docs/01-contexto-objetivos.md  
-- docs/02-curadoria-fontes.md  
-- docs/03-engenharia-prompts.md  
-- docs/04-miniguia-estudo.md  
-
----
-
-## 📂 Navegação
-
-- 📄 Sobre o projeto
-- 📄 Contato
-- 📄 Contexto e objetivos
-- 📄 Curadoria de fontes
-- 📄 Engenharia de prompts
-- 📄 Miniguia de estudo
-
-
-## 📂 Navegação
-
 - 📄 [Sobre o projeto](sobre.md)
 - 📄 [Contato](contato.md)
 - 📄 [Contexto e objetivos](docs/01-contexto-objetivos.md)
